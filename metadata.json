@@ -1,0 +1,5 @@
+{
+  "name": "BBM Control System",
+  "description": "Sistem kontrol penggunaan dan pembelian BBM untuk supir, operator, dan pengelola.",
+  "requestFramePermissions": ["camera"]
+}
